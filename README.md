@@ -1,11 +1,7 @@
 
 
 # Bootstrap4_confirmation_page_scratch_design
-
-
-
-
-![alt text](https://github.com/Maxyee/Bootstrap4_confirmation_page/blob/master/screenshots/confirm.png)
+![alt text](https://github.com/Maxyee/Bootstrap4_confirmation_page/blob/master/screenshots/scratch.jpeg)
 
 # Bootstrap4_confirmation_page
 
@@ -16,6 +12,8 @@ for making this type of resposive page.
 
 At first clone the repository or download the file and then just simply open the `index.html` file.
 
+![alt text](https://github.com/Maxyee/Bootstrap4_confirmation_page/blob/master/screenshots/confirm.png)
+
 There is Two button one is Yes and another is No. I just use html ancor tag which <a> which navigate one page to another. So when a user click 
 to the No button its navigate to him `Warrning.html` file.
 
@@ -23,7 +21,7 @@ to the No button its navigate to him `Warrning.html` file.
 
 # How I make this page
 
-As per as I already said I used the bootstarp framework for this project. So at first I open the documentation website of bootstrap
+As per as I already said I used the bootstarp4 framework for this project. So at first I open the documentation website of bootstrap
 then I click to the getting started button after that I copy the template code for the inital library calling of bootstrap. where bootstrap
 css, js  are mentioned as a CDN link. CDN means the (Content Delivery Network).
 
