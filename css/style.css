@@ -1,0 +1,24 @@
+.jumbotron{
+    height: 100vh;
+}
+
+.gap{
+    margin: 10px;
+}
+
+
+
+ul#ul_footer li {
+    display: inline;
+    color: black;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+ul#ul_footer li a{
+    color: black(201, 181, 181);
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
